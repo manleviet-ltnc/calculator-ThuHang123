@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\obj\Debug\calculator.frmmain.resources
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Admin\Documents\GitHub\calculator-ThuHang123\calculator\calculator\obj\Debug\calculator.pdb
